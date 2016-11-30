@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+When you initialise a new git repository it creates a new hidden directory '.git' where all the database information is stored.
