@@ -40,4 +40,8 @@ and what would be harder?
 When would you want to make changes in a separate branch rather than directly in
 master?  What benefits does each approach have?
 
-    Fill in your answer here
+    When you want to test some code without affecting the master branch which probably 
+    already works well.
+    It's best to create a branch for an individual software update, bug fix or inclusion 
+    of new functionality so that you can trace and control your versions more effectively.
+    
